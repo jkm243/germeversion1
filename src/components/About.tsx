@@ -68,24 +68,30 @@ const About: React.FC = () => {
               </h2>
               <div className="space-y-6 text-slate-600 font-light leading-relaxed">
                 <p>
-                  Serviteur de Dieu appelé dès son jeune âge, le Frère Paul André dirige 
-                  cette assemblée avec sagesse et dans la crainte de l'Écriture. Son ministère 
-                  est marqué par un enseignement biblique profond et une vie d'exemple.
+                 Le frère Paul André est l’initiateur de la véritable doctrine du Christ qui rassemble tous les enfants
+dispersé du germe enseignant la parole de Dieu révélée par JC. Comme un semeur envoyé dans la
+moisson du Seigneur, il proclame la Parole qui ne passe point, afin que ceux qui étaient éloignés
+entendent de nouveau la voix du Bon Berger.
+
                 </p>
                 <p>
-                  "Je les rassemblerai de tous les pays où je les ai dispersés dans ma colère, 
-                  dans ma fureur, et dans ma grande irritation." (Jérémie 32:37)
+                 Sa mission est semblable à celle annoncée par l’Écriture : « Je les rassemblerai de tous les pays où je les
+ai dispersés » (Jérémie 32:37). Il exhorte chacun à revenir à la semence incorruptible, à ce germe divin
+qui est Jésus-Christ, « le chemin, la vérité et la vie » (Jean 14:6).
+
                 </p>
                 <p>
-                  "Jésus lui dit: Je suis le chemin, la vérité, et la vie. Nul ne vient au Père que par moi." (Jean 14:6)
+                Tel un gardien de la foi, il veille à ce que le troupeau du Seigneur ne soit pas emporté par des
+vents de doctrine, mais demeure ferme sur le fondement posé une fois pour toutes par les apôtres
+et les prophètes, ayant Jésus-Christ pour pierre angulaire (Éphésiens 2:20).
                 </p>
                 <p>
-                  "Vous avez été édifiés sur le fondement des apôtres et des prophètes, Jésus-Christ lui-même étant la pierre angulaire." (Éphésiens 2:20)
+                Par sa fidélité, le frère Paul André témoigne que le dessein de Dieu est d’unir ses enfants dans
+une même alliance, accomplissant la prière du Christ : « Père, qu’ils soient un, comme nous
+sommes un » (Jean 17:21).
+
                 </p>
-                <p>
-                  "Afin que tous soient un, comme toi, Père, tu es en moi, et comme je suis en toi." (Jean 17:21)
-                </p>
-              </div>
+                              </div>
             </div>
           </div>
         </div>
