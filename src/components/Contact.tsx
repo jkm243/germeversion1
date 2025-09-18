@@ -229,6 +229,10 @@ const Contact: React.FC = () => {
                     <p className="font-medium">Vendredi - Nuit de réflexion</p>
                     <p className="text-sm">20h00</p>
                   </div>
+                  <div>
+                    <p className="font-medium">Vendredi - Nuit de réflexion</p>
+                    <p className="text-sm">20h00</p>
+                  </div>
                 </div>
               </div>
             </div>

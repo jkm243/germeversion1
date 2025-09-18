@@ -115,10 +115,22 @@ const Ministries: React.FC = () => {
             </div>
             <div className="max-w-4xl mx-auto text-center">
               <p className="text-slate-600 font-light leading-relaxed mb-8 text-lg">
-                Bienvenue dans la famille du Germe! Notre assemblée n'est pas seulement un lieu de culte, 
-                mais une communauté vivante où chaque membre trouve sa place dans le corps du Christ. 
-                Nous croyons en l'importance de la communion fraternelle, de l'édification mutuelle et 
-                du service désintéressé.
+                Bienvenue dans la famille du Germe !
+Notre assemblée n’est pas seulement un lieu de culte, mais une communauté vivante où chacun
+est appelé à revenir à la semence incorruptible, Jésus-Christ, le véritable Germe annoncé par les
+prophètes.
+                Nos rencontres sont des temps de prière, de louange, d’exhortation, de méditations et des
+réflexions mais aussi des occasions de redécouvrir la vérité simple et pure de l’Évangile.
+
+              </p>
+              <p className="text-slate-600 font-light leading-relaxed mb-8 text-lg">
+                Que vous veniez pour la première fois ou que vous soyez déjà enraciné dans la foi, sachez que le
+Seigneur vous appelle à revenir à cette semence, à ce germe divin qui est Jésus-Christ, le
+chemin, la vérité et la vie.
+              </p>
+              <p className="text-slate-600 font-light leading-relaxed mb-8 text-lg">
+                Vous êtes les bienvenus pour partager avec nous cette heure de délivrance, où le Seigneur
+rassemble ses enfants et renouvelle leur marche avec Lui.
               </p>
               <blockquote className="text-vivid-green-600 font-medium text-xl mb-4">
                 "Je les rassemblerai de tous les pays où je les ai dispersés"

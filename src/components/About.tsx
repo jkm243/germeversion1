@@ -23,18 +23,25 @@ const About: React.FC = () => {
             </h2>
             <div className="space-y-6 text-slate-600 font-light leading-relaxed">
               <p>
-                Une assemblée née d'une vision divine. L'assemblée des Frères Chrétiens - Les Amis du Germe 
-                est une Association Sans But Lucratif ayant pour but de répandre et de restaurer la vérité 
-                sur l'évangile du Christ contenu dans la Bible.
+               L’assemblée des Frères Chrétiens, les Amis du Germe, est une Association Sans But Lucratif ayant pour
+but de répandre et de restaurer la vérité sur l’évangile du Christ contenu dans la Bible.
               </p>
               <p>
-                "Allez, faites de toutes les nations des disciples, les baptisant au nom du Père, du Fils et du Saint-Esprit, 
-                et enseignez-leur à observer tout ce que je vous ai prescrit." (Matthieu 28:19-20)
+              A l’heure du Germe est une école ouverte à tous
+Le Frère Paul prêche la parole de Christ à toute langue, à toutes les nations selon qu’il est écrit
+Allez, faites de toutes les nations des disciples, les baptisant au nom du Père, du Fils et du Saint Esprit,
+Et enseignez-leur à observer tout ce que je vous ai prescrit. (Matthieu 28 : 19- 20)
+A l’heure du Germe est un nouveau son de cloche dans le monde Chrétien
               </p>
               <p>
-                "Plusieurs faux prophètes s'élèveront, et ils séduiront beaucoup de gens. Et, parce que l'iniquité se sera accrue, 
-                la charité du plus grand nombre se refroidira. Mais celui qui persévérera jusqu'à la fin sera sauvé. 
-                Cette bonne nouvelle du royaume sera prêchée dans le monde entier." (Matthieu 24:11-15)
+             Le Frère Paul nous révèle la réalité des Dimes et offrandes dans l’église du Christ ; selon qu’il est écrit :
+C'est pourquoi, lorsque vous verrez l'abomination de la désolation, dont a parlé le prophète Daniel,
+établie en lieu saint, -que celui qui lit fasse attention ! – (Matthieu 24 : 11 ; 15)
+A l’heure du Germe : le mensonge ne règnera pas toujours :
+Le Frère Paul nous enseigne la pure vérité , il nous révèle le vrais sens des écrits de la bible car par ce
+temps qui court , il est important que le vrai chrétien comprenne l’écriture qui déclare que Plusieurs faux
+prophètes s'élèveront, et ils séduiront beaucoup de gens (Matthieu 24 : 11 )
+A l’heure du Germe : Heure de la delivrance
               </p>
             </div>
             <div className="mt-8 p-6 bg-vivid-green-50 border-l-4 border-vivid-green-600">
@@ -68,17 +75,16 @@ const About: React.FC = () => {
               </h2>
               <div className="space-y-6 text-slate-600 font-light leading-relaxed">
                 <p>
-                 Le frère Paul André est l’initiateur de la véritable doctrine du Christ qui rassemble tous les enfants
+                Le frère Paul André est l’initiateur de la véritable doctrine du Christ qui rassemble tous les enfants
 dispersé du germe enseignant la parole de Dieu révélée par JC. Comme un semeur envoyé dans la
 moisson du Seigneur, il proclame la Parole qui ne passe point, afin que ceux qui étaient éloignés
 entendent de nouveau la voix du Bon Berger.
 
                 </p>
                 <p>
-                 Sa mission est semblable à celle annoncée par l’Écriture : « Je les rassemblerai de tous les pays où je les
+                Sa mission est semblable à celle annoncée par l’Écriture : « Je les rassemblerai de tous les pays où je les
 ai dispersés » (Jérémie 32:37). Il exhorte chacun à revenir à la semence incorruptible, à ce germe divin
 qui est Jésus-Christ, « le chemin, la vérité et la vie » (Jean 14:6).
-
                 </p>
                 <p>
                 Tel un gardien de la foi, il veille à ce que le troupeau du Seigneur ne soit pas emporté par des
@@ -89,9 +95,9 @@ et les prophètes, ayant Jésus-Christ pour pierre angulaire (Éphésiens 2:20).
                 Par sa fidélité, le frère Paul André témoigne que le dessein de Dieu est d’unir ses enfants dans
 une même alliance, accomplissant la prière du Christ : « Père, qu’ils soient un, comme nous
 sommes un » (Jean 17:21).
-
                 </p>
-                              </div>
+              
+              </div>
             </div>
           </div>
         </div>
@@ -110,32 +116,32 @@ sommes un » (Jean 17:21).
               {[
                 {
                   title: "La Sainte Bible",
-                  description: "Nous croyons en l'autorité suprême et l'inspiration divine des Écritures saintes.",
+                  description: "Nous croyons que la Sainte Écriture est la Parole inspirée de Dieu, parfaite et immuable, révélant la volonté divine pour l’humanité. ",
                   verse: "2 Timothée 3:16"
                 },
                 {
                   title: "Jésus-Christ",
-                  description: "Nous confessons que Jésus est le Fils unique de Dieu, notre Sauveur et Seigneur.",
+                  description: "Nous croyons que Jésus-Christ est le Fils unique de Dieu, la Parole faite chair, morte et ressuscité pour notre salut.",
                   verse: "Jean 1:14"
                 },
                 {
                   title: "Le Germe de Dieu",
-                  description: "Car voici, je ferai venir mon serviteur, le Germe.",
+                  description: "Nous croyons que Jesus-Christ est le Germe annoncé par les prophetes, par qui Dieu rassemble ses enfants disperses et établit son régne éternel.",
                   verse: "Zacharie 3:8"
                 },
                 {
                   title: "La Vraie Doctrine de Christ",
-                  description: "Quiconque va plus loin et ne demeure pas dans la doctrine de Christ n'a point Dieu.",
+                  description: "Nous croyons que la véritable doctrine est celle transmise par Jésus-Christ et les apôtres, fondement unique de la foi, qui garde l’Église dans la vérité.",
                   verse: "2 Jean 1:9"
                 },
                 {
                   title: "Le Saint-Esprit",
-                  description: "Quand le consolateur sera venu, l'Esprit de vérité, il vous conduira dans toute la vérité.",
+                  description: "Nous croyons que le Saint-Esprit est donné pour conduire le croyant dans toute la vérité",
                   verse: "Jean 16:13"
                 },
                 {
                   title: "L'Église",
-                  description: "Vous êtes le corps de Christ, et vous êtes ses membres, chacun pour sa part.",
+                  description: "Nous croyons que l’Église est l’assemblée des rachetés, le corps de Christ, appelée à marcher dans l’unité et à annoncer la vérité jusqu’aux extrémités de la terre. ",
                   verse: "1 Corinthiens 12:27"
                 }
               ].map((belief, index) => (
