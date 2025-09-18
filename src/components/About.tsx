@@ -19,7 +19,7 @@ const About: React.FC = () => {
         <div className="grid lg:grid-cols-2 gap-20 items-center mb-20">
           <div>
             <h2 className="text-2xl font-light text-slate-800 mb-8">
-              Une assemblée née d'une vision divine
+              
             </h2>
             <div className="space-y-6 text-slate-600 font-light leading-relaxed">
               <p>
@@ -27,21 +27,21 @@ const About: React.FC = () => {
 but de répandre et de restaurer la vérité sur l’évangile du Christ contenu dans la Bible.
               </p>
               <p>
-              A l’heure du Germe est une école ouverte à tous
+             <strong>A l’heure du Germe est une école ouverte à tous. </strong>
 Le Frère Paul prêche la parole de Christ à toute langue, à toutes les nations selon qu’il est écrit
 Allez, faites de toutes les nations des disciples, les baptisant au nom du Père, du Fils et du Saint Esprit,
 Et enseignez-leur à observer tout ce que je vous ai prescrit. (Matthieu 28 : 19- 20)
-A l’heure du Germe est un nouveau son de cloche dans le monde Chrétien
+<b> A l’heure du Germe est un nouveau son de cloche dans le monde Chrétien.</b>
               </p>
               <p>
              Le Frère Paul nous révèle la réalité des Dimes et offrandes dans l’église du Christ ; selon qu’il est écrit :
 C'est pourquoi, lorsque vous verrez l'abomination de la désolation, dont a parlé le prophète Daniel,
-établie en lieu saint, -que celui qui lit fasse attention ! – (Matthieu 24 : 11 ; 15)
-A l’heure du Germe : le mensonge ne règnera pas toujours :
+établie en lieu saint, -que celui qui lit fasse attention ! – (Matthieu 24 : 11 ; 15).
+<b> A l’heure du Germe : le mensonge ne règnera pas toujours : </b>
 Le Frère Paul nous enseigne la pure vérité , il nous révèle le vrais sens des écrits de la bible car par ce
 temps qui court , il est important que le vrai chrétien comprenne l’écriture qui déclare que Plusieurs faux
-prophètes s'élèveront, et ils séduiront beaucoup de gens (Matthieu 24 : 11 )
-A l’heure du Germe : Heure de la delivrance
+prophètes s'élèveront, et ils séduiront beaucoup de gens (Matthieu 24 : 11 ).
+<b> A l’heure du Germe : Heure de la delivrance. </b>
               </p>
             </div>
             <div className="mt-8 p-6 bg-vivid-green-50 border-l-4 border-vivid-green-600">

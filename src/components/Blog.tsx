@@ -8,7 +8,6 @@ const Blog: React.FC = () => {
   const categories = [
     { id: 'all', name: 'Tous' },
     { id: 'enseignement', name: 'Enseignement' },
-    { id: 'temoignage', name: 'Témoignage' },
     { id: 'meditation', name: 'Méditation' }
   ];
 
@@ -25,7 +24,7 @@ const Blog: React.FC = () => {
     {
       id: 2,
       title: "Témoignage : Guérison Miraculeuse",
-      category: "temoignage",
+      category: "meditation",
       author: "Sœur Marie-Claire",
       date: "8 Décembre 2024",
       excerpt: "Le témoignage poignant d'une sœur qui a vécu la puissance de Dieu dans sa maladie."

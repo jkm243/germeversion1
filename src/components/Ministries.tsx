@@ -4,7 +4,7 @@ const Ministries: React.FC = () => {
   const programs = [
     {
       title: "Culte du Dimanche",
-      description: "Service principal avec prédication, louange et communion fraternelle pour toute la famille.",
+      description: "Un temps de communion fraternelle et d’édification autour de la Parole de Dieu.",
       schedule: "Dimanche 9h00"
     },
     {
@@ -62,7 +62,9 @@ const Ministries: React.FC = () => {
           <div className="max-w-6xl mx-auto">
             <div className="grid lg:grid-cols-2 gap-20 items-center">
               <div>
+                {/*
                 <h2 className="text-3xl font-light text-slate-800 mb-8">
+                 
                   Formation Biblique Approfondie
                 </h2>
                 <div className="space-y-6 text-slate-600 font-light leading-relaxed mb-8">
@@ -91,7 +93,7 @@ const Ministries: React.FC = () => {
                 </div>
                 <button className="text-slate-800 hover:text-vivid-green-600 font-medium tracking-wide transition-colors border-b border-slate-800 hover:border-vivid-green-600">
                   En savoir plus
-                </button>
+                </button>*/}
               </div>
               <div className="relative">
                 <img 
