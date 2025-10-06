@@ -21,7 +21,7 @@ const About: React.FC = () => {
           <div className="slide-in-left">
             <div className="space-y-6 text-slate-600 font-light leading-relaxed">
               <p className="text-lg">
-                Une assemblée née d'une vision divine. L'assemblée des Frères Chrétiens - Les Amis du Germe est une Association Sans But Lucratif ayant pour but de répandre et de restaurer la vérité sur l'évangile du Christ contenu dans la Bible.
+                L'assemblée des Frères Chrétiens - Les Amis du Germe est une Association Sans But Lucratif ayant pour but de répandre et de restaurer la vérité sur l'évangile du Christ contenu dans la Bible.
               </p>
               <div className="bg-vivid-green-50 p-6 rounded-2xl border-l-4 border-vivid-green-600">
                 <p className="font-medium text-vivid-green-800">
@@ -59,7 +59,7 @@ const About: React.FC = () => {
           <div className="relative slide-in-right">
             <div className="relative overflow-hidden rounded-3xl shadow-2xl">
               <img 
-                src="https://images.pexels.com/photos/8466757/pexels-photo-8466757.jpeg?auto=compress&cs=tinysrgb&w=800&h=600&fit=crop"
+                src="https://images.pexels.com/photos/2305084/pexels-photo-2305084.jpeg?auto=compress&cs=tinysrgb&w=800&h=600&fit=crop"
                 alt="Histoire de l'assemblée"
                 className="w-full h-96 object-cover transform hover:scale-105 transition-transform duration-700"
               />

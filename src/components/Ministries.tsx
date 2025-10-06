@@ -9,15 +9,15 @@ const Ministries: React.FC = () => {
       schedule: "Dimanche 9h00",
       icon: Sun,
       color: "from-amber-500 to-orange-500",
-      image: "https://images.pexels.com/photos/8466665/pexels-photo-8466665.jpeg?auto=compress&cs=tinysrgb&w=600&h=400&fit=crop"
+      image: "https://images.pexels.com/photos/2774566/pexels-photo-2774566.jpeg?auto=compress&cs=tinysrgb&w=600&h=400&fit=crop"
     },
     {
       title: "Culte du Mercredi",
-      description: "Un moment de révision et d'approfondissement des enseignements du dimanche, suivi d'un temps de questions-réponses pour éclaircir ce qui n'a pas été compris.",
+      description: "Un moment de révision et d’approfondissement des enseignements du dimanche, suivi d’un temps de questions-réponses pour éclaircir ce qui n’a pas été compris.",
       schedule: "Mercredi 16h00",
       icon: Heart,
       color: "from-vivid-green-500 to-teal-500",
-      image: "https://images.pexels.com/photos/8466757/pexels-photo-8466757.jpeg?auto=compress&cs=tinysrgb&w=600&h=400&fit=crop"
+      image: "https://images.pexels.com/photos/2305084/pexels-photo-2305084.jpeg?auto=compress&cs=tinysrgb&w=600&h=400&fit=crop"
     },
     {
       title: "Émission « À l'heure du Germe »",
@@ -25,7 +25,7 @@ const Ministries: React.FC = () => {
       schedule: "Jeudi 20h00 (Kinshasa)",
       icon: Radio,
       color: "from-blue-500 to-indigo-500",
-      image: "https://images.pexels.com/photos/8466809/pexels-photo-8466809.jpeg?auto=compress&cs=tinysrgb&w=600&h=400&fit=crop"
+      image: "https://images.pexels.com/photos/7689427/pexels-photo-7689427.jpeg?auto=compress&cs=tinysrgb&w=600&h=400&fit=crop"
     },
     {
       title: "Nuit de Réflexion",
@@ -41,7 +41,7 @@ const Ministries: React.FC = () => {
       schedule: "Samedi 18h00 GMT",
       icon: Youtube,
       color: "from-red-500 to-pink-500",
-      image: "https://images.pexels.com/photos/8466665/pexels-photo-8466665.jpeg?auto=compress&cs=tinysrgb&w=600&h=400&fit=crop"
+      image: "https://images.pexels.com/photos/33440446/pexels-photo-33440446.jpeg?auto=compress&cs=tinysrgb&w=600&h=400&fit=crop"
     }
   ];
 

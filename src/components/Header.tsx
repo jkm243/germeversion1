@@ -25,7 +25,7 @@ const Header: React.FC<HeaderProps> = ({ activeSection, setActiveSection }) => {
         <div className="flex justify-between items-center h-20">
           <div className="flex items-center cursor-pointer" onClick={() => setActiveSection('accueil')}>
             <div className="text-left">
-              <h1 className="text-xl font-light text-slate-800 tracking-wide">D.B.N</h1>
+              <h1 className="text-xl font-light text-slate-800 tracking-wide">B.D.N</h1>
               <p className="text-xs text-vivid-green-600 font-medium tracking-widest uppercase">Amis du Germe</p>
             </div>
           </div>

@@ -101,7 +101,7 @@ const Sermons: React.FC = () => {
             </div>
             <div className="relative">
               <img 
-                src="https://images.pexels.com/photos/8466665/pexels-photo-8466665.jpeg?auto=compress&cs=tinysrgb&w=800&h=600&fit=crop"
+                src="https://images.pexels.com/photos/2014775/pexels-photo-2014775.jpeg?auto=compress&cs=tinysrgb&w=800&h=600&fit=crop"
                 alt="Dernière prédication"
                 className="w-full h-80 object-cover"
               />

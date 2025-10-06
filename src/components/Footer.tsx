@@ -31,7 +31,7 @@ const Footer: React.FC = () => {
             <div className="mb-8">
               <h3 className="text-xl font-light text-white mb-2 flex items-center">
                 <Heart className="w-5 h-5 mr-2 text-vivid-green-400" />
-                D.B.N - Amis du Germe
+                B.D.N - Amis du Germe
               </h3>
               <p className="text-vivid-green-400 text-sm font-medium tracking-widest uppercase">
                 Assemblée des Frères Chrétiens
@@ -143,7 +143,7 @@ const Footer: React.FC = () => {
         <div className="max-w-6xl mx-auto px-6 py-6">
           <div className="flex flex-col md:flex-row justify-between items-center space-y-4 md:space-y-0">
             <div className="text-slate-400 text-sm">
-              © {currentYear} D.B.N - Assemblée des Frères Chrétiens - Les Amis du Germe
+              © {currentYear} B.D.N - Assemblée des Frères Chrétiens - Les Amis du Germe
             </div>
             <div className="text-slate-400 text-sm">
               Fait avec amour pour la gloire de Dieu

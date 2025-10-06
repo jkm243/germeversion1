@@ -5,10 +5,10 @@ const Hero: React.FC = () => {
   const [currentSlide, setCurrentSlide] = useState(0);
   
   const backgroundImages = [
-    'https://images.pexels.com/photos/8466665/pexels-photo-8466665.jpeg?auto=compress&cs=tinysrgb&w=1920&h=1080&fit=crop',
-    'https://images.pexels.com/photos/8466757/pexels-photo-8466757.jpeg?auto=compress&cs=tinysrgb&w=1920&h=1080&fit=crop',
-    'https://images.pexels.com/photos/8466809/pexels-photo-8466809.jpeg?auto=compress&cs=tinysrgb&w=1920&h=1080&fit=crop',
-    'https://images.pexels.com/photos/8466737/pexels-photo-8466737.jpeg?auto=compress&cs=tinysrgb&w=1920&h=1080&fit=crop'
+    'https://images.pexels.com/photos/2774566/pexels-photo-2774566.jpeg?auto=compress&cs=tinysrgb&w=1920&h=1080&fit=crop',
+    'https://images.pexels.com/photos/2305084/pexels-photo-2305084.jpeg?auto=compress&cs=tinysrgb&w=1920&h=1080&fit=crop',
+    'https://images.pexels.com/photos/29756525/pexels-photo-29756525.jpeg?auto=compress&cs=tinysrgb&w=1920&h=1080&fit=crop',
+    'https://images.pexels.com/photos/2014775/pexels-photo-2014775.jpeg?auto=compress&cs=tinysrgb&w=1920&h=1080&fit=crop'
   ];
 
   useEffect(() => {
@@ -55,7 +55,7 @@ const Hero: React.FC = () => {
             <div className="mb-8 fade-in">
               <div className="inline-flex items-center px-6 py-3 glass-effect rounded-full text-white text-sm font-medium tracking-widest uppercase">
                 <Globe className="w-4 h-4 mr-2" />
-                D.B.N - Assemblée des Frères Chrétiens
+                B.D.N - Assemblée des Frères Chrétiens
               </div>
             </div>
             
