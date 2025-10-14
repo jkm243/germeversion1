@@ -25,28 +25,29 @@ const About: React.FC = () => {
               </p>
               <div className="bg-vivid-green-50 p-6 rounded-2xl border-l-4 border-vivid-green-600">
                 <p className="font-medium text-vivid-green-800">
-                  <strong>À l'heure du Germe est une école ouverte à tous.</strong>
+                  <strong>À l'heure du Germe est une école ouverte à tous.    </strong>
+                  Chacun est appelé à apprendre et grandir dans la connaissance du Christ, car la sagesse est accessible à tous ceux qui la cherchent avec un cœur ouvert.  
+« Mon peuple est détruit faute de connaissance. » (Osée 4:6)
                 </p>
                 <p className="mt-2">
-                  Le Frère Paul prêche la parole de Christ à toute langue, à toutes les nations selon qu'il est écrit : 
-                  "Allez, faites de toutes les nations des disciples, les baptisant au nom du Père, du Fils et du Saint Esprit, 
-                  Et enseignez-leur à observer tout ce que je vous ai prescrit." (Matthieu 28 : 19-20)
+                  
                 </p>
               </div>
               <p>
                 <strong>À l'heure du Germe est un nouveau son de cloche dans le monde Chrétien.</strong>
-                Le Frère Paul nous révèle la réalité des Dîmes et offrandes dans l'église du Christ ; selon qu'il est écrit : 
-                "C'est pourquoi, lorsque vous verrez l'abomination de la désolation, dont a parlé le prophète Daniel, 
-                établie en lieu saint, -que celui qui lit fasse attention !" (Matthieu 24 : 11 ; 15)
+Ce temps invite les peuples de Dieu à réfléchir sincèrement sur leur foi et leur engagement chrétien, à approfondir la compréhension de la Parole divine.  
+« Examinez toutes choses; retenez ce qui est bon. » (1 Thessaloniciens 5:21)
               </p>
               <p>
                 <strong>À l'heure du Germe : le mensonge ne règnera pas toujours.</strong>
-                Le Frère Paul nous enseigne la pure vérité, il nous révèle le vrai sens des écrits de la bible car par ce 
-                temps qui court, il est important que le vrai chrétien comprenne l'écriture qui déclare que "Plusieurs faux 
-                prophètes s'élèveront, et ils séduiront beaucoup de gens" (Matthieu 24 : 11).
+              Malgré la présence de faux enseignements, la vérité divine s’élèvera et triomphera, guidant les croyants vers la justice.  
+« Plusieurs faux prophètes s’élèveront, et ils séduiront beaucoup de gens. » (Matthieu 24:11)
               </p>
               <p>
                 <strong>À l'heure du Germe : Heure de la délivrance.</strong>
+               La parole véritable libère de l’ignorance et des mensonges, apportant lumière et salut à ceux qui s’y abandonnent pleinement.  
+« Vous connaîtrez la vérité, et la vérité vous affranchira. » (Jean 8:32)
+
               </p>
             </div>
             <div className="mt-8 p-6 bg-gradient-to-r from-vivid-green-50 to-amber-50 border border-vivid-green-200 rounded-2xl">
